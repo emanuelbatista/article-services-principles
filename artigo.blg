@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: artigo.aux
+The style file: sbc.bst
+Database file #1: artigo.bib
+Warning--entry type for "elemar" isn't style-file defined
+--line 16 of file artigo.bib
+You've used 3 entries,
+            1935 wiz_defined-function locations,
+            484 strings with 3870 characters,
+and the built_in function-call counts, 820 in all, are:
+= -- 78
+> -- 21
+< -- 3
++ -- 6
+- -- 6
+* -- 51
+:= -- 159
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 17
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 38
+empty$ -- 62
+format.name$ -- 9
+if$ -- 156
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 18
+num.names$ -- 9
+pop$ -- 18
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 36
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 14
+warning$ -- 0
+while$ -- 6
+width$ -- 0
+write$ -- 39
+(There was 1 warning)
